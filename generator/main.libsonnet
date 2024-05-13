@@ -27,7 +27,7 @@ local addDoc(obj) =
         a.literal.new(
           d.package.new(
             'zabbixQuery',
-            'https://github.com/grafana/grafana-zabbix/jsonnet/zabbix-query-libsonnet',
+            'https://github.com/grafana/grafana-zabbix-libsonnet/zabbix-query-libsonnet',
             'Jsonnet library for creating Zabbix queries for Grafana.',
             'main.libsonnet',
             'main',

@@ -4,13 +4,13 @@ Jsonnet library for creating Zabbix queries for Grafana.
 ## Install
 
 ```
-jb install https://github.com/grafana/grafana-zabbix/jsonnet/zabbix-query-libsonnet@main
+jb install https://github.com/grafana/grafana-zabbix-libsonnet/zabbix-query-libsonnet@main
 ```
 
 ## Usage
 
 ```jsonnet
-local zabbixQuery = import "https://github.com/grafana/grafana-zabbix/jsonnet/zabbix-query-libsonnet/main.libsonnet"
+local zabbixQuery = import "https://github.com/grafana/grafana-zabbix-libsonnet/zabbix-query-libsonnet/main.libsonnet"
 ```
 
 
